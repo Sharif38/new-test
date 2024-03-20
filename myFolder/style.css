@@ -1,0 +1,17 @@
+
+
+
+
+
+
+
+body,p,span{
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+h1,h2,h3,h4,h5,h6,a{
+    font-family: "Roboto", sans-serif;
+}
